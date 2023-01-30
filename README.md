@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arkgrv
+- 👋 Hi, I’m @m4ce-w1ndu
 - 👀 I’m interested in Computer Science, Science Fiction, Physics and other nerdy stuff
 - 🌱 I’m currently learning Rust and Kotlin
 - 💞️ I’m looking to collaborate on Rust projects
